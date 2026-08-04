@@ -1,4 +1,4 @@
-# passw_generator
+# Python Password Generator
 A 12-character password generator written in python
 
 # REQUIREMENTS:
