@@ -1,5 +1,6 @@
 # Python Password Generator
-A 12-character password generator written in python
+`A Password generator written in Python. Currently only supports 12 characters.
+I will make a 20/24 character version in a near future.`
 
 ## Requirements:
 - Visual Studio Code or other programs that are able to run python
