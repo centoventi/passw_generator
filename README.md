@@ -3,7 +3,11 @@
 A Password generator written in Python. Currently only supports 12 characters.
 I will make a 20/24 character version in a near future.
 ```
+## _____________________________________________________________________________________
+```
+Requirements:
+Visual studio code or any other program that can be used for coding.
+Python 3 (Can be downloaded from the python website or the microsoft store if you are on windows!)
+```
 
-## Requirements:
-- Visual Studio Code or other programs that are able to run python
-- Any version of python (Microsoft store or python.exe)
+Made by Centoventi_
