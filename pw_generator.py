@@ -15,10 +15,10 @@ def generate_password(length=12, include_upper=True, include_lower=True, include
         chars += string.punctuation
 
     if not chars:
-        raise ValueError("You must enable at least one character type.")
+        raise ValueError("Err: You must include at least ONE character of each type.")
 
     if length < 1:
-        raise ValueError("Password length must be at least 1.")
+        raise ValueError("Err: Password length must be at least 1 character or longer.")
 
     return "".join(secrets.choice(chars) for _ in range(length))
 
