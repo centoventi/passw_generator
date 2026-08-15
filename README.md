@@ -11,4 +11,11 @@ You will also need a software like Visual Studio Code (Or any other) that suppor
 
 If you have the both of them: Click RUN and look at your terminal.
 ```
+## ___________________________________________________________________________________
+**Instructions to run:**
+**Announcements & Notices**
+```
+Announcements and notices are in the ISSUES tab.
+You may only use the ISSUES tab to report issues and ask questions as I did not create an outreach discord as of yet.
+```
 Made with love in italy by @centoventi_
