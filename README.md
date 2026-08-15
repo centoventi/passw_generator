@@ -15,6 +15,7 @@ If you have the both of them: Click RUN and look at your terminal.
 **Announcements & Notices**
 ```
 Announcements and notices are in the ISSUES tab.
-You may only use the ISSUES tab to report issues and ask questions as I did not create an outreach discord as of yet.
+You may only use the ISSUES tab 
+to report issues and ask questions as I did not create an outreach discord as of yet.
 ```
 Made with love in italy by @centoventi_
