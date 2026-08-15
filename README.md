@@ -11,4 +11,4 @@ You will also need a software like Visual Studio Code (Or any other) that suppor
 
 If you have the both of them: Click RUN and look at your terminal.
 ```
-Made by Centoventi_
+Made with love in italy by @centoventi_
